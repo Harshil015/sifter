@@ -45,7 +45,7 @@ This comes with Kali Linux and ParrotOS. If you're on something else, install `d
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/sifter.git
+git clone https://github.com/Harshil015/sifter.git
 cd sifter
 chmod +x scan.sh
 ```
