@@ -47,7 +47,7 @@ This comes with Kali Linux and ParrotOS. If you're on something else, install `d
 ```bash
 git clone https://github.com/Harshil015/sifter
 cd sifter
-chmod +x scan.sh
+chmod +x sifter.sh
 ```
 
 No install step, no Python environments, no config files. Just mark it executable and run it.
@@ -57,7 +57,7 @@ No install step, no Python environments, no config files. Just mark it executabl
 ## Usage
 
 ```bash
-sudo ./scan.sh
+sudo ./sifter.sh
 ```
 
 The script will prompt for a target IP:
