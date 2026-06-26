@@ -202,4 +202,8 @@ This tool is intended for authorised penetration testing, CTF competitions, and 
 
 ## Author
 
-Made as part of my security tooling practice while grinding through CTFs and working toward OSCP. Feedback and PRs welcome.
+**Harshil Makwana** — ECE graduate from SVNIT Surat, building security tools and looking for my first role in penetration testing or VAPT.
+
+[linkedin.com/in/harshilmakwana](https://linkedin.com/in/harshilmakwana) · [github.com/Harshil015](https://github.com/Harshil015)
+
+Feedback, issues, and PRs welcome.
